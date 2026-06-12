@@ -17,7 +17,7 @@ autenticação.
 
 ---
 
-## 🧱 Tecnologias
+##  Tecnologias
 
 | Camada | Tecnologia |
 |---|---|
@@ -29,7 +29,7 @@ autenticação.
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### Pré-requisitos
 - **Java 17+** (`java -version`)
@@ -57,7 +57,7 @@ npm run dev
 | Formulário público "Quero Adotar" | http://localhost:5173/ |
 | Login do painel administrativo | http://localhost:5173/login |
 
-### 🔑 Credenciais de teste (senha de todos: `admin123`)
+###  Credenciais de teste (senha de todos: `admin123`)
 | E-mail | Perfil |
 |---|---|
 | admin@tocadospeludos.org | Admin |
@@ -70,7 +70,7 @@ npm run dev
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 **Área pública**
 - Formulário "Quero Adotar" em 4 etapas: Dados Pessoais → Seu Lar → Documentos → Confirmação
@@ -112,7 +112,7 @@ npm run dev
 
 ---
 
-## 📁 Estrutura de pastas
+##  Estrutura de pastas
 
 ```
 toca-dos-peludos/
@@ -132,7 +132,7 @@ toca-dos-peludos/
 
 ---
 
-## 🛠️ Solução de problemas
+##  Solução de problemas
 
 - **"mvn não é reconhecido"** → instale o Maven e adicione ao PATH (ou use o wrapper da sua IDE / IntelliJ / VS Code com extensão Java).
 - **Porta 8080 ou 5173 ocupada** → encerre o processo em uso ou ajuste `server.port` (backend) / `vite.config.js` (frontend).
