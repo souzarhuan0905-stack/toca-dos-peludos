@@ -1,4 +1,4 @@
-# 🐾 Sistema de Cadastro Antecipado para Adoção – Toca dos Peludos
+# Sistema de Cadastro Antecipado para Adoção – Toca dos Peludos
 
 Projeto de Extensão – **Web Services** (ENIAC) · Sprint 3 (aplicação funcional)
 
